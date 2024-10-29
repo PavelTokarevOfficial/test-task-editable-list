@@ -83,6 +83,7 @@ const removeDeviceFromStore = (id) => {
 
   &__name{
     flex: 1;
+    cursor: grab;
   }
 }
 </style>
