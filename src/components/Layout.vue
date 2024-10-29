@@ -15,5 +15,6 @@ import Header from "./Header.vue";
 .layout{
   min-height: 100vh;
   padding-bottom: 20px;
+  overflow-x: hidden;
 }
 </style>
